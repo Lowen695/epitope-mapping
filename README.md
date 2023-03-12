@@ -7,3 +7,9 @@ The software application is designed to generate pepdids of specific lengths and
 
 . Generate peptides
 ![Alt text](2.png)
+
+Generate minicards
+![Alt text](3.png)
+
+Generate card arrays (duplicates)
+![Alt text](4.png)
